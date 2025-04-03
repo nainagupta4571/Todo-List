@@ -51,10 +51,6 @@ The application uses `styled-components` for dynamic and reusable styling. The U
 4. Click the **✔** circle to mark the task as done.  
 5. Click the **❌** button to delete a task.  
 
-## 📸 Preview  
-
-![Todo List App](https://via.placeholder.com/600x300?text=Todo+List+App+Preview)  
-
 ## 🔗 Deployment  
 
 The app is deployed on **Vercel**. You can access it here:  
